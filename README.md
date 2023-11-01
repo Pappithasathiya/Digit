@@ -152,7 +152,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="https://drive.google.com/https://docs.google.com/document/d/12FxF9LJ5GtcMZPTolaWalmEelSkxXdrn/edit?usp=drivesdk&ouid=113243941599456550524&rtpof=true&sd=trueclass="download-button">Download CV</a>
+            <a https://docs.google.com/document/d/1LLswAHZQFXTZnDiA8joVfd0J6ImS5rG1/edit?usp=drivesdk&ouid=113243941599456550524&rtpof=true&sd=true//
         </center>
         </div>
         
